@@ -1,5 +1,8 @@
 # 💫 About Me:
-currently working on mumbai college match , it helps student to find colleges in mumbai<br>interested in aviation<br>currently learning aviation systems and coding
+I'm a student who enjoys building things and exploring how technology works.
+Currently working on projects that solve real-world problems for students and communities.
+I'm interested in aviation and fascinated by the systems and technology behind modern aircraft.
+I'm also developing my skills in coding and exploring different areas of computer science.
 
 
 ## 🌐 Socials:
